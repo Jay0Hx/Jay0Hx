@@ -1,11 +1,9 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm <a href="https://discord.gg/WHHsDjm73Y" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="[https://discord.gg/WHHsDjm73Y](https://discord.com/users/1044741314094317638)" target="blank">
 JayOHx</a></h1>
 </div>
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/WHHsDjm73Y)
-
-- Discord: [`JayOHx#0002`](https://discord.com/users/1044741314094317638)
 
 <p align="center">
 
