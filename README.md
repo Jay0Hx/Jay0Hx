@@ -3,6 +3,9 @@
 JayOHx</a></h1>
 </div>
 
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+
 [![Discord](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY)]()
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/WHHsDjm73Y)
