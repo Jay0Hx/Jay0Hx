@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Jay!</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://discord.gg/WHHsDjm73Y" target="blank">
+JayOHx</a></h1>
 <h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, join my <a href="(https://discord.gg/WHHsDjm73Y)" target="_blank">discord</a> for support</h4>
 </div>
 
