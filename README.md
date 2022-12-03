@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm <a href="https://discord.com/users/1044741314094317638" target="blank">
+<h1 align="center">Hi 👋 I'm <a href="https://discord.com/users/1044741314094317638" target="blank">
 JayOHx</a></h1>
 </div>
 
