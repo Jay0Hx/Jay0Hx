@@ -6,5 +6,5 @@ JayOHx</a></h1>
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
 
-<iframe src="https://discord.com/widget?id=1048178082512642078&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discord.com/widget?id=1048178082512642078&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
