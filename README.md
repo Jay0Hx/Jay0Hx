@@ -3,6 +3,8 @@
 JayOHx</a></h1>
 </div>
 
+[![Discord](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY)]()
+
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/WHHsDjm73Y)
 
 <p align="center">
