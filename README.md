@@ -5,6 +5,8 @@
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/WHHsDjm73Y)
 
+- Discord: [`JayOHx#0002`](https://discord.com/users/1044741314094317638)
+
 <p align="center">
 
 - **Languages**:
