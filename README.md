@@ -5,6 +5,6 @@ JayOHx</a></h1>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
-```
-![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
-```
+
+![Discord Banner 4](https://discordapp.com/api/guilds/127498813903601664/widget.png?style=banner4)
+
