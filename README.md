@@ -6,7 +6,7 @@ JayOHx</a></h1>
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
 
-|![](https://github.com/Jay0Hx/Jay0Hx/blob/main/metrics.svg)|![](https://github.com/wyattowalsh/wyattowalsh/blob/main/metrics.additional.svg)|
+|![](https://github.com/JayOHx/JayOHx/blob/main/metrics.svg)|![](https://github.com/Jay0Hx/Jay0Hx/blob/main/metrics.additional.svg)|
 |---|---|
 
 [![Discord](https://raw.githubusercontent.com/arjunMee/arjunMee/master/soc/ws.svg?token=AQWYXGRHCRNYN3ZD5UX7RGLAUYRZY)]()
