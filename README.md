@@ -8,3 +8,4 @@ JayOHx</a></h1>
 
 ![Discord Banner 4](https://discordapp.com/api/guilds/1048613029337649162/widget.png?style=banner4)
 
+![Discord Banner 4](https://discordapp.com/api/guilds/1048613029337649162/widget.png?style=banner4)
