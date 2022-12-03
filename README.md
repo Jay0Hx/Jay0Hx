@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm <a href="https://discord.gg/WHHsDjm73Y" target="blank">
 JayOHx</a></h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, join my <a href="(https://discord.gg/WHHsDjm73Y)" target="_blank">discord</a> for support</h4>
 </div>
 
 [![discord](https://discordapp.com/api/guilds/787578856122351626/embed.png?style=banner2)](https://discord.gg/WHHsDjm73Y)
