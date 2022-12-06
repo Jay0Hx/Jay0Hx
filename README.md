@@ -7,6 +7,7 @@ JayOHx</a></h1>
 <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
 
 <div align="center">
+  <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
   <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true&theme=tokyonight"
