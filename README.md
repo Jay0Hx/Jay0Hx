@@ -20,4 +20,6 @@ JayOHx</a></h1>
   </picture>
 </div>
 
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+
 ![spotify-github-profile](/img/default.svg)
