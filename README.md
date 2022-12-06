@@ -20,6 +20,4 @@ JayOHx</a></h1>
   </picture>
 </div>
 
-<p align="center"><[![spotify-github-profile]https://spotify-github-profile.vercel.app/api/view?uid=31efjfc35bjbittyuvvfjeefmddq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile" alt="Jay0Hx :: Visitor's Count"</p>
-
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31efjfc35bjbittyuvvfjeefmddq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
