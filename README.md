@@ -8,6 +8,7 @@ JayOHx</a></h1>
 
 <picture>
 <source 
+  align="center"
   srcset="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
