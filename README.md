@@ -19,3 +19,5 @@ JayOHx</a></h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true" />
   </picture>
 </div>
+
+![spotify-github-profile](/img/default.svg)
