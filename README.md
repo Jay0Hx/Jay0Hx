@@ -6,13 +6,9 @@ JayOHx</a></h1>
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Jay0Hx}/count.svg" alt="Jay0Hx :: Visitor's Count" /></p>
 
-[![Jay0Hx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay0Hx)](https://github.com/Jay0Hx/github-readme-stats)
-
-![Jay0Hx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true)
-
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true&theme=gruvbox"
+  srcset="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
