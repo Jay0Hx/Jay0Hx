@@ -20,6 +20,4 @@ JayOHx</a></h1>
   </picture>
 </div>
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
-
-![spotify-github-profile](/img/default.svg)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31efjfc35bjbittyuvvfjeefmddq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
