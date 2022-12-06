@@ -19,7 +19,3 @@ JayOHx</a></h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true" />
   </picture>
 </div>
-
-<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31efjfc35bjbittyuvvfjeefmddq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-</div>
