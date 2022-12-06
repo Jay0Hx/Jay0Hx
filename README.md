@@ -13,6 +13,7 @@ JayOHx</a></h1>
   media="(prefers-color-scheme: dark)"
 />
 <source
+  align="center"
   srcset="https://github-readme-stats.vercel.app/api?username=Jay0Hx&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
